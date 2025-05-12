@@ -1,0 +1,3 @@
+[submodule "uni-notes"]
+	path = uni-notes
+	url = git@github.com:TomLonergan03/uni-notes

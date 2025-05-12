@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "7a9b2d933a3393b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8bc703d46d7d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef711f187bb9858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54714a6831787b8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b41f00de1448b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "245016979c3189b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "028fb1d5b7dc1823",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6b7c75cf008b2f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "b2f267aedf74c740",
+    "type": "split",
+    "children": [
+      {
+        "id": "c14c4e70ca781a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d8d2a9e5eac8c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2338b763745890ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "year_3/operating_systems/Week 9/W9N1 - Synchronisation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from W9N1 - Synchronisation"
+            }
+          },
+          {
+            "id": "27d75a6e099bf655",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "741ac1c9518ed101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "year_3/operating_systems/Week 9/W9N1 - Synchronisation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of W9N1 - Synchronisation"
+            }
+          },
+          {
+            "id": "94be4f97e2249d26",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "136856e649aadec1",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "0ef711f187bb9858",
+  "lastOpenFiles": [
+    "year_3/elements_of_programming_languages/Week 1/W1N1 - Intro.md",
+    "README.md",
+    "year_2/digital_system_design_2/Week 1 - Digital signals and boolean algebra/W1N1 - Introduction to digital signals.md",
+    "year_2/introduction_to_algorithms_and_datastructures/Week 1 - Efficiency of algorithms/W1N1 - What are algorithms and data structures?.md",
+    "year_3/computer_communication_and_networks/Overview.md",
+    "year_2/introduction_to_algorithms_and_datastructures/Week 1 - Efficiency of algorithms/W1N2 - Inefficient vs efficient algorithms.md",
+    "year_2/digital_system_design_2/Images/w1And.png",
+    "year_4/advanced_database_systems/Week 6/W6N3 - Transactions.md",
+    "year_2/digital_system_design_2/README.md",
+    "year_4/advanced_database_systems/Week 7/W7N2 - Recovery.md",
+    "year_4/advanced_database_systems/Week 7/W7N3 - Distributed transactions.md",
+    "year_4/advanced_database_systems/Week 8/W8N2 - Storage models.md",
+    "year_4/advanced_database_systems/Week 8/W8N3 - NoSQL.md",
+    "year_4/advanced_database_systems/Week 8/W8N1 - Parallel query processing.md",
+    "year_4/advanced_database_systems/Week 10/W10N2 - Conjuctive query evaluation.md",
+    "year_4/advanced_database_systems/Week 11/W11N2 - Fast conjunctive query evaluation.md",
+    "year_4/advanced_database_systems/Week 11/W11N1 - Conjunctive query minimisation.md",
+    "year_4/advanced_database_systems/Week 6/W6N2 - Query search.md",
+    "year_4/advanced_database_systems/Cheatsheet/sections/cost_equations.tex~",
+    "year_4/advanced_database_systems/Week 6/W6N1 - Query costing.md",
+    "year_4/advanced_database_systems/Week 5/W5N2 - Query optimisation.md",
+    "year_4/advanced_database_systems/Week 5/W5N1 - Access methods.md",
+    "year_4/advanced_database_systems/Week 4/W4N4 - Processing models.md",
+    "year_4/advanced_database_systems/Week 4/W4N3 - Joins.md",
+    "year_4/advanced_database_systems/Cheatsheet/adbs.pdf",
+    "year_4/advanced_database_systems/Week 4/W4N2 - Aggregation.md",
+    "year_4/advanced_database_systems/Week 4/W4N1 - Sorting.md",
+    "year_4/advanced_database_systems/Week 3/W3N4 - Hash-based indexing.md",
+    "year_4/advanced_database_systems/Week 3/W3N3 - Tree-based indexing.md",
+    "year_4/advanced_database_systems/Cheatsheet/adbs.aux",
+    "year_4/advanced_database_systems/Cheatsheet/adbs.log",
+    "year_4/advanced_database_systems/Cheatsheet/Makefile~",
+    "year_4/advanced_database_systems/Cheatsheet/adbs.tex",
+    "year_4/advanced_database_systems/Cheatsheet/adbs.out",
+    "year_4/advanced_database_systems/Cheatsheet/ccan.tex~",
+    "year_4/advanced_database_systems/Cheatsheet/sections/cost_equations.tex",
+    "year_4/advanced_database_systems/Cheatsheet/ccan.out",
+    "year_4/advanced_database_systems/images/w11n2yannakakiStep1.png",
+    "year_4/advanced_database_systems/images/w11n2yannakakiStep3.png",
+    "year_4/advanced_database_systems/images/w11n2yannakakiStep2.png",
+    "year_4/advanced_database_systems/images/w11n2acyclicHypergraph.png",
+    "year_4/advanced_database_systems/images/w11n2cyclicHypergraph.png",
+    "year_4/advanced_database_systems/images/w11n2cyclicJoinTree.png",
+    "year_4/advanced_database_systems/images/w11n2joinTreeConnectedSubtree.png",
+    "year_4/advanced_database_systems/images/w11n2joinTree.png",
+    "year_4/advanced_database_systems/images/w11n2queryHypergraph.png",
+    "Untitled.canvas"
+  ]
+}
