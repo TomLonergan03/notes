@@ -1215,6 +1215,8 @@ tractable
 tttXX
 treewidth
 transistor
+took
+triangular
 some
 smaller
 so
@@ -1879,6 +1881,7 @@ smmm
 srrJII
 straight
 submodules
+subtracting
 multiple
 matter
 many
@@ -2265,6 +2268,9 @@ mjj
 mbb
 mLL
 microprocessor
+matrices
+multiples
+multiplying
 eventually
 execute
 each
@@ -2733,6 +2739,7 @@ equivalently
 esM
 ecMiI
 esimates
+exchanges
 bounded
 by
 below
@@ -3056,6 +3063,7 @@ bZZZ
 bqX
 brief
 brr
+blue
 above
 asymptotically
 as
@@ -3578,6 +3586,9 @@ ack
 adjustments
 additionally
 alternates
+abandon
+algebraic
+augment
 no
 number
 not
@@ -3830,6 +3841,7 @@ naming
 nonlinear
 noise
 noisiness
+nose
 what
 ways
 we
@@ -5729,6 +5741,7 @@ lemma
 layouts
 likelyhood
 linear
+lecture
 upper
 use
 useful
@@ -6023,6 +6036,8 @@ ukW
 unanimity
 unilaterally
 university
+unknowns
+uninvertable
 for
 focus
 from
@@ -6398,6 +6413,7 @@ filename
 flush
 flushes
 flop
+focusing
 There
 Typically
 The
@@ -7245,6 +7261,7 @@ piming
 producing
 propagation
 presume
+planes
 various
 values
 value
@@ -7502,6 +7519,7 @@ voted
 voltages
 voltage
 variability
+visualise
 kinds
 know
 keys
@@ -8339,6 +8357,8 @@ distinguished
 disconnected
 downtimes
 discretising
+dimensional
+dimension
 how
 have
 halves
@@ -9449,6 +9469,7 @@ EQTgg
 Euww
 Eliminate
 Esimate
+Elimination
 An
 Asymptotic
 Any
@@ -10417,6 +10438,7 @@ gkk
 gOuu
 gate
 gates
+graphically
 Best
 Basically
 BP
@@ -11132,6 +11154,8 @@ Millennium
 Minimisation
 MGEE
 Micro
+Matrix
+Multiplying
 However
 How
 Heapify
@@ -13438,6 +13462,7 @@ GGb
 Glasgow
 GYO
 Gate
+Generalising
 just
 jgc
 jkk
@@ -13854,6 +13879,7 @@ UVU
 UWO
 UYX
 UDr
+Unsolvable
 QuickSort
 QeD
 Qq
