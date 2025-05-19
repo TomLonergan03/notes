@@ -63,7 +63,7 @@ $$
 0&0&5&-10
 \end{bmatrix}
 $$
-If we remove the column we took from $b$ we are left with the **upper triangular matrix**:
+If we remove the column we took from $b$ we are left with the **upper triangular matrix**: ^bc2e13
 $$
 u=\begin{bmatrix}
 1&2&1\\
@@ -172,6 +172,16 @@ E=\begin{bmatrix}
 6&-2&1
 \end{bmatrix}
 $$
+# Identity matrices
+When any matrix is multiplied with the **identity matrix**, no change occurs. Identity matrices only exist for square matrices, and consist of zeros with a line of ones down the diagonal, e.g. the 3x3 identity matrix is:
+$$
+\begin{bmatrix}
+1&0&0\\
+0&1&0\\
+0&0&1\\
+\end{bmatrix}
+$$
+
 # Permutation matrices
 As an aside, if we have to do a row exchange, this is represented by a **permutation matrix**, e.g.
 $$

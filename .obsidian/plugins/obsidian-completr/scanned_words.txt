@@ -1219,6 +1219,8 @@ treewidth
 transistor
 took
 triangular
+transposed
+transpositions
 some
 smaller
 so
@@ -1886,6 +1888,7 @@ submodules
 subtracting
 square
 submatrices
+stopping
 multiple
 matter
 many
@@ -2275,6 +2278,7 @@ microprocessor
 matrices
 multiples
 multiplying
+multiplied
 eventually
 execute
 each
@@ -4134,6 +4138,7 @@ wTY
 wnZ
 wrr
 wPp
+worked
 Defined
 Different
 Datastructures
@@ -6717,6 +6722,7 @@ Tdhj
 TRUE
 Timing
 Truth
+Transposition
 possible
 purposes
 performed
@@ -8368,6 +8374,7 @@ dimensional
 dimension
 dimensions
 dot
+diagonal
 how
 have
 halves
@@ -9211,6 +9218,7 @@ rise
 reasons
 rising
 rectangular
+ride
 Even
 Example
 Extensible
@@ -10023,6 +10031,8 @@ Initial
 INs
 ILNN
 Inverses
+Identity
+Inverse
 Yes
 YY
 YYY
@@ -11943,6 +11953,7 @@ FcQ
 FFMZ
 FFX
 FALSE
+Factorisation
 Lists
 Linked
 Likewise

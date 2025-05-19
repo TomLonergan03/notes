@@ -11,10 +11,14 @@
             "id": "af0834a2d588aa97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MIT OCW linear algebra/Lecture 4 - Factorisation into A=LU.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 4 - Factorisation into A=LU"
             }
           }
         ]
@@ -183,8 +187,9 @@
   },
   "active": "af0834a2d588aa97",
   "lastOpenFiles": [
-    "MIT OCW linear algebra/Lecture 3 - Multiplication and Inverse Matrices.md",
     "MIT OCW linear algebra/Lecture 2 - Elimination with Matrices.md",
+    "MIT OCW linear algebra/Lecture 4 - Factorisation into A=LU.md",
+    "MIT OCW linear algebra/Lecture 3 - Multiplication and Inverse Matrices.md",
     "MIT OCW linear algebra/Lecture 1 - The geometry of linear equations.md",
     "README.md",
     "uni-notes/year_3/operating_systems/Overview.md",
@@ -213,7 +218,6 @@
     "year_4/advanced_database_systems/Week 5/W5N2 - Query optimisation.md",
     "year_4/advanced_database_systems/Week 5/W5N1 - Access methods.md",
     "year_4/advanced_database_systems/Week 4/W4N4 - Processing models.md",
-    "year_4/advanced_database_systems/Week 4/W4N3 - Joins.md",
     "year_4/advanced_database_systems/Cheatsheet/adbs.pdf",
     "year_4/advanced_database_systems/Cheatsheet/adbs.aux",
     "year_4/advanced_database_systems/Cheatsheet/adbs.log",
