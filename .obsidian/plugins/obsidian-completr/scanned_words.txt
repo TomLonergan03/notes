@@ -446,6 +446,8 @@ inquiries
 instantaneously
 impacting
 iiiX
+inverses
+invertible
 or
 of
 operations
@@ -1882,6 +1884,8 @@ srrJII
 straight
 submodules
 subtracting
+square
+submatrices
 multiple
 matter
 many
@@ -3589,6 +3593,7 @@ alternates
 abandon
 algebraic
 augment
+augmenting
 no
 number
 not
@@ -3842,6 +3847,7 @@ nonlinear
 noise
 noisiness
 nose
+notice
 what
 ways
 we
@@ -6038,6 +6044,7 @@ unilaterally
 university
 unknowns
 uninvertable
+uninvertible
 for
 focus
 from
@@ -8359,6 +8366,8 @@ downtimes
 discretising
 dimensional
 dimension
+dimensions
+dot
 how
 have
 halves
@@ -9201,6 +9210,7 @@ rollback
 rise
 reasons
 rising
+rectangular
 Even
 Example
 Extensible
@@ -10012,6 +10022,7 @@ Identify
 Initial
 INs
 ILNN
+Inverses
 Yes
 YY
 YYY
@@ -11156,6 +11167,7 @@ MGEE
 Micro
 Matrix
 Multiplying
+Matrices
 However
 How
 Heapify
@@ -13283,6 +13295,7 @@ PkD
 PTIME
 Participants
 Precision
+Permutation
 Given
 Gp
 GGG
@@ -13463,6 +13476,9 @@ Glasgow
 GYO
 Gate
 Generalising
+Giving
+Gaussian
+Gauss
 just
 jgc
 jkk
@@ -15040,6 +15056,7 @@ JIIY
 JvW
 JMM
 JMy
+Jordan
 XO
 XYYI
 XIh

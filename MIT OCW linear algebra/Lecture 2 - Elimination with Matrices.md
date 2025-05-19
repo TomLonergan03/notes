@@ -22,8 +22,8 @@ b=\begin{bmatrix}
 2
 \end{bmatrix}
 $$
-# Elimination
-**Elimination** is a process for solving a system of linear equations. To perform it, we want to to eliminate variables from each equation by adding and subtracting multiples of equations.
+# Gaussian elimination
+**Gaussian elimination** is a process for solving a system of linear equations. To perform it, we want to to eliminate variables from each equation by adding and subtracting multiples of equations.
 
 Using our example, the first step will be to **augment** $A$ with $b$:, giving us:
 $$

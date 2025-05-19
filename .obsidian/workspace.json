@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e2a0715998e84f",
+        "id": "d25b964a2eb60e76",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8b8506752e66c7",
+            "id": "af0834a2d588aa97",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,8 +181,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3f8b8506752e66c7",
+  "active": "af0834a2d588aa97",
   "lastOpenFiles": [
+    "MIT OCW linear algebra/Lecture 3 - Multiplication and Inverse Matrices.md",
     "MIT OCW linear algebra/Lecture 2 - Elimination with Matrices.md",
     "MIT OCW linear algebra/Lecture 1 - The geometry of linear equations.md",
     "README.md",
@@ -214,7 +215,6 @@
     "year_4/advanced_database_systems/Week 4/W4N4 - Processing models.md",
     "year_4/advanced_database_systems/Week 4/W4N3 - Joins.md",
     "year_4/advanced_database_systems/Cheatsheet/adbs.pdf",
-    "year_4/advanced_database_systems/Week 4/W4N2 - Aggregation.md",
     "year_4/advanced_database_systems/Cheatsheet/adbs.aux",
     "year_4/advanced_database_systems/Cheatsheet/adbs.log",
     "year_4/advanced_database_systems/Cheatsheet/Makefile~",
