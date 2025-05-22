@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d25b964a2eb60e76",
+        "id": "6a1abeb398012383",
         "type": "tabs",
         "children": [
           {
-            "id": "af0834a2d588aa97",
+            "id": "0719c02e5a1f167d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MIT OCW linear algebra/Lecture 4 - Factorisation into A=LU.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 4 - Factorisation into A=LU"
+              "title": "New tab"
             }
           }
         ]
@@ -185,11 +181,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "af0834a2d588aa97",
+  "active": "0719c02e5a1f167d",
   "lastOpenFiles": [
+    "MIT OCW linear algebra/Lecture 5 - Transposes, Permutations, and Spaces.md",
+    "MIT OCW linear algebra/Lecture 3 - Multiplication and Inverse Matrices.md",
     "MIT OCW linear algebra/Lecture 2 - Elimination with Matrices.md",
     "MIT OCW linear algebra/Lecture 4 - Factorisation into A=LU.md",
-    "MIT OCW linear algebra/Lecture 3 - Multiplication and Inverse Matrices.md",
     "MIT OCW linear algebra/Lecture 1 - The geometry of linear equations.md",
     "README.md",
     "uni-notes/year_3/operating_systems/Overview.md",
@@ -217,7 +214,6 @@
     "year_4/advanced_database_systems/Week 6/W6N1 - Query costing.md",
     "year_4/advanced_database_systems/Week 5/W5N2 - Query optimisation.md",
     "year_4/advanced_database_systems/Week 5/W5N1 - Access methods.md",
-    "year_4/advanced_database_systems/Week 4/W4N4 - Processing models.md",
     "year_4/advanced_database_systems/Cheatsheet/adbs.pdf",
     "year_4/advanced_database_systems/Cheatsheet/adbs.aux",
     "year_4/advanced_database_systems/Cheatsheet/adbs.log",

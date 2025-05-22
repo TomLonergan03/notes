@@ -93,4 +93,4 @@ A=E_{21}^{-1}E_{31}^{-1}E_{32}^{-1}U
 $$
 so $L=E_{21}^{-1}E_{31}^{-1}E_{32}^{-1}$.
 
-Larger matrices will be factorised similarly.
+Larger matrices will be factorised similarly, and in all these cases we are assuming no [[Lecture 2 - Elimination with Matrices#Permutation matrices|permutations]] are needed for elimination.

@@ -204,3 +204,5 @@ A
 \end{bmatrix}
 $$
 This will swap columns 2 and 3 of $A$.
+
+Permutation matrices are closed under multiplication, i.e. if we take any two permutation matrices and multiply them together, the result will simply be another permutation matrix.

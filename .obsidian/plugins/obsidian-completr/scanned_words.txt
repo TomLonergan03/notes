@@ -1221,6 +1221,8 @@ took
 triangular
 transposed
 transpositions
+transpose
+transposition
 some
 smaller
 so
@@ -6426,6 +6428,7 @@ flush
 flushes
 flop
 focusing
+factorised
 There
 Typically
 The
@@ -7275,6 +7278,8 @@ producing
 propagation
 presume
 planes
+pivots
+permutations
 various
 values
 value
@@ -9219,6 +9224,7 @@ reasons
 rising
 rectangular
 ride
+reversed
 Even
 Example
 Extensible
@@ -12216,6 +12222,7 @@ LJJJNNvss
 Layers
 LOW
 LQp
+Larger
 Stacks
 Sometimes
 So
@@ -13307,6 +13314,7 @@ PTIME
 Participants
 Precision
 Permutation
+Permutations
 Given
 Gp
 GGG
